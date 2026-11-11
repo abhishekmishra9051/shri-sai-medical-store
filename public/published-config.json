@@ -1,0 +1,544 @@
+{
+  "schemaVersion": 3,
+  "business": {
+    "name": "Shri Sai Medical & General Store",
+    "shortName": "Shri Sai Medical",
+    "tagline": "Your Trusted Neighbourhood Medical & General Store in Manipal",
+    "subheadline": "Authentic prescription medicines, wellness essentials, healthcare devices, and daily general store necessities — serving Adarsha Nagar and Manipal every day from 7:30 AM to 11:00 PM.",
+    "description": "Located at Siddhesh Complex in Adarsha Nagar, Manipal, Shri Sai Medical & General Store is dedicated to providing genuine pharmaceutical products, surgical supplies, personal care items, baby care products, and everyday household essentials with attentive community service and prompt home delivery.",
+    "businessTypes": [
+      "Medical Store",
+      "Pharmacy",
+      "General Store"
+    ],
+    "hours": {
+      "opensAt": "07:30",
+      "closesAt": "23:00",
+      "display": "7:30 AM – 11:00 PM",
+      "daysSummary": "Open Every Day (Monday – Sunday)",
+      "statusOverride": "auto"
+    },
+    "contact": {
+      "primaryPhone": "9632824134",
+      "secondaryPhone": "9632824134",
+      "primaryPhoneDisplay": "+91 9632824134",
+      "secondaryPhoneDisplay": "+91 9632824134",
+      "primaryPhoneLabel": "Counter & Delivery Desk",
+      "secondaryPhoneLabel": "Store & Enquiries",
+      "whatsappNumber": "919632824134",
+      "secondaryWhatsappNumber": "919632824134",
+      "whatsappDefaultMessage": "Hello Shri Sai Medical & General Store, I would like to enquire about medicine/product availability and home delivery in Manipal.",
+      "email": "contact@shrisaimedicalmanipal.com"
+    },
+    "address": {
+      "building": "Siddhesh Complex",
+      "area": "Adarsha Nagar",
+      "city": "Manipal",
+      "state": "Karnataka",
+      "pincode": "576104",
+      "country": "India",
+      "fullAddress": "Siddhesh Complex, Adarsha Nagar, Manipal, Karnataka 576104, India",
+      "landmarkNote": "Conveniently located at Siddhesh Complex in Adarsha Nagar, Manipal."
+    },
+    "map": {
+      "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Shri+Sai+Medical+%26+General+Store+Siddhesh+Complex+Adarsha+Nagar+Manipal+Karnataka+576104",
+      "googleMapsDirectionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Siddhesh+Complex+Adarsha+Nagar+Manipal+Karnataka+576104",
+      "embedIframeUrl": "https://maps.google.com/maps?q=Siddhesh%20Complex%2C%20Adarsha%20Nagar%2C%20Manipal%2C%20Karnataka%20576104&t=&z=16&ie=UTF8&iwloc=&output=embed"
+    }
+  },
+  "appearance": {
+    "primaryGreen": "#059669",
+    "secondaryGreen": "#047857",
+    "lightGreen": "#ECFDF5",
+    "showAnnouncementBar": true,
+    "showFloatingWhatsApp": true,
+    "logoSymbolMode": "cross",
+    "customLogoUrl": "",
+    "logoBorderColor": "gold",
+    "logoShape": "squircle"
+  },
+  "sectionVisibility": {
+    "announcementBar": true,
+    "headerBar": true,
+    "heroSection": true,
+    "flashDealsSection": true,
+    "aboutSection": true,
+    "categoriesSection": true,
+    "catalogueSection": true,
+    "deliverySection": true,
+    "gallerySection": true,
+    "contactMapSection": true,
+    "footerSection": true
+  },
+  "headerElements": {
+    "logo": true,
+    "storeName": true,
+    "navLinks": true,
+    "liveStatusBadge": true,
+    "callButton": true,
+    "whatsappButton": true,
+    "cmsButton": true
+  },
+  "footerElements": {
+    "brandColumn": true,
+    "quickLinksColumn": true,
+    "hoursColumn": true,
+    "contactColumn": true,
+    "copyrightBar": true,
+    "ownerAccessButtons": true
+  },
+  "headerConfig": {
+    "sticky": true,
+    "compactMode": false,
+    "callButtonText": "9051282419",
+    "whatsappButtonText": "WhatsApp",
+    "cmsButtonText": "Owner CMS",
+    "showCallOnMobile": false,
+    "showWhatsAppOnMobile": true,
+    "showStatusOnMobile": true,
+    "elementOrder": [
+      "logo",
+      "storeName",
+      "navLinks",
+      "liveStatusBadge",
+      "callButton",
+      "whatsappButton",
+      "cmsButton"
+    ],
+    "navLinks": [
+      {
+        "id": "nav-home",
+        "label": "Home",
+        "href": "#home",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-deals",
+        "label": "Flash Deals",
+        "href": "#deals",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-about",
+        "label": "About",
+        "href": "#about",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-categories",
+        "label": "Categories",
+        "href": "#categories",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-products",
+        "label": "Products",
+        "href": "#products",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-delivery",
+        "label": "Home Delivery",
+        "href": "#delivery",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-gallery",
+        "label": "Gallery",
+        "href": "#gallery",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      },
+      {
+        "id": "nav-contact",
+        "label": "Location & Contact",
+        "href": "#contact",
+        "visible": true,
+        "showOnDesktop": true,
+        "showOnMobile": true
+      }
+    ]
+  },
+  "footerConfig": {
+    "columnOrder": [
+      "brand",
+      "quickLinks",
+      "hours",
+      "contact"
+    ],
+    "brandColumnTitle": "Shri Sai Medical & General Store",
+    "quickLinksTitle": "Quick Links",
+    "hoursTitle": "Opening Hours",
+    "contactTitle": "Store Address & Contact",
+    "copyrightSuffix": "Siddhesh Complex, Adarsha Nagar, Manipal 576104.",
+    "regulatoryNote": "Dispensing of prescription medicines is strictly subject to a valid doctor prescription.",
+    "showOnMobile": true,
+    "quickLinks": [
+      {
+        "id": "fl-about",
+        "label": "About Store",
+        "href": "#about",
+        "visible": true
+      },
+      {
+        "id": "fl-categories",
+        "label": "Product Categories",
+        "href": "#categories",
+        "visible": true
+      },
+      {
+        "id": "fl-catalogue",
+        "label": "Product Catalogue",
+        "href": "#products",
+        "visible": true
+      },
+      {
+        "id": "fl-delivery",
+        "label": "Home Delivery Info",
+        "href": "#delivery",
+        "visible": true
+      },
+      {
+        "id": "fl-gallery",
+        "label": "Store Gallery",
+        "href": "#gallery",
+        "visible": true
+      },
+      {
+        "id": "fl-contact",
+        "label": "Google Maps & Contact",
+        "href": "#contact",
+        "visible": true
+      }
+    ]
+  },
+  "flashSale": {
+    "enabled": true,
+    "autoPlay": true,
+    "showWelcomePopup": true,
+    "intervalSeconds": 4,
+    "bannerTitle": "Special Seasonal Wellness & General Store Offers",
+    "bannerSubtitle": "Exclusive in-store & home-delivery savings on daily wellness, personal care, and household items in Manipal.",
+    "regulatoryDisclaimer": "Compliance Safeguard: Promotional offers and discounts apply strictly to OTC wellness, healthcare devices, personal care, and general store items. Schedule H, H1, and X prescription medications are strictly excluded in full adherence to the Indian Drugs and Cosmetics Act.",
+    "offers": [
+      {
+        "id": "deal-1",
+        "title": "Digital BP & Glucometer Wellness Combo",
+        "subtitle": "Free blood glucose test strips pack inquiry + priority home delivery in Manipal",
+        "discountBadge": "UP TO 15% OFF",
+        "couponCode": "SAICARE15",
+        "originalPrice": "₹2,499",
+        "offerPrice": "₹2,124",
+        "validUntil": "Limited Stock Offer",
+        "category": "Wellness & Devices",
+        "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=900&q=80",
+        "highlightColor": "emerald",
+        "priceCalculationMode": "auto"
+      },
+      {
+        "id": "deal-2",
+        "title": "Baby Care & Gentle Hygiene Bundle",
+        "subtitle": "Special bundle value on baby diapers, gentle wipes, rash cream & baby lotion",
+        "discountBadge": "BUNDLE SAVER",
+        "couponCode": "BABYBUNDLE",
+        "originalPrice": "₹950",
+        "offerPrice": "₹825",
+        "validUntil": "This Week at Store",
+        "category": "Baby & Mother Care",
+        "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=900&q=80",
+        "highlightColor": "amber",
+        "priceCalculationMode": "custom"
+      },
+      {
+        "id": "deal-3",
+        "title": "Monsoon & Seasonal Immunity Essentials",
+        "subtitle": "Steam vaporizers, digital thermometers, herbal lozenges & vitamin C packs",
+        "discountBadge": "SEASONAL SPECIAL",
+        "couponCode": "MONSOON10",
+        "originalPrice": "₹699",
+        "offerPrice": "₹575",
+        "validUntil": "Valid All Month",
+        "category": "Seasonal Care",
+        "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=900&q=80",
+        "highlightColor": "blue",
+        "priceCalculationMode": "custom"
+      },
+      {
+        "id": "deal-4",
+        "title": "Daily Personal Care & Family Hygiene Pack",
+        "subtitle": "Antiseptic washes, medicated soaps, dental care & skincare essentials",
+        "discountBadge": "FLAT 10% VALUE",
+        "couponCode": "FAMILY10",
+        "originalPrice": "₹600",
+        "offerPrice": "₹540",
+        "validUntil": "Every Day Offer",
+        "category": "Personal Care",
+        "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=80",
+        "highlightColor": "rose",
+        "priceCalculationMode": "auto"
+      }
+    ]
+  },
+  "announcement": {
+    "enabled": true,
+    "badgeText": "STORE UPDATES",
+    "speedSeconds": 28,
+    "items": [
+      "Open Every Day: 7:30 AM – 11:00 PM at Siddhesh Complex, Adarsha Nagar, Manipal",
+      "Home Delivery Available across Adarsha Nagar & Manipal — Call 9632824134 or WhatsApp us",
+      "Send your prescription or product list on WhatsApp for quick availability check"
+    ]
+  },
+  "delivery": {
+    "available": true,
+    "headline": "Fast & Reliable Neighbourhood Home Delivery in Manipal",
+    "summary": "Cannot visit the store in person? Share your medicine list, prescription photo, or general store essentials via phone call or WhatsApp, and our team will coordinate delivery to your doorstep.",
+    "terms": [
+      "Home delivery available in Adarsha Nagar, Manipal and nearby surrounding localities.",
+      "For prescription medicines, a clear photo of a valid doctor prescription is mandatory before dispatch.",
+      "Call or WhatsApp 9632824134 to confirm stock availability and estimated delivery time.",
+      "Delivery timings operate within store hours (7:30 AM – 11:00 PM) subject to staff availability."
+    ],
+    "coverageNote": "Serving Adarsha Nagar, Manipal (576104) and nearby residential & student areas.",
+    "ctaLabel": "Order / Enquire on WhatsApp"
+  },
+  "categories": [
+    {
+      "id": "cat-prescription",
+      "title": "Prescription Medicines",
+      "description": "Dispensed strictly against a valid doctor prescription with careful verification by qualified pharmacy staff.",
+      "iconName": "FileCheck2",
+      "badgeText": "Prescription Required",
+      "subText": "Verified Dispensing"
+    },
+    {
+      "id": "cat-otc",
+      "title": "OTC & Daily Wellness",
+      "description": "Everyday health support, basic pain relief, digestive care, rehydration salts, and seasonal care items.",
+      "iconName": "Pill",
+      "badgeText": "Daily Health",
+      "subText": "Ready Stock"
+    },
+    {
+      "id": "cat-firstaid",
+      "title": "First Aid & Surgical",
+      "description": "Sterile gauze, crepe bandages, antiseptic solutions, medical tapes, cotton rolls, and wound care supplies.",
+      "iconName": "HeartPulse",
+      "badgeText": "Emergency Ready",
+      "subText": "Clinical Grade"
+    },
+    {
+      "id": "cat-devices",
+      "title": "Healthcare Devices",
+      "description": "Digital thermometers, BP monitors, glucometers, test strips, nebulizers, vaporizers, and oximeters.",
+      "iconName": "Stethoscope",
+      "badgeText": "Home Monitoring",
+      "subText": "Genuine Brands"
+    },
+    {
+      "id": "cat-baby",
+      "title": "Baby & Mother Care",
+      "description": "Baby diapers, gentle wipes, infant nutrition, feeding accessories, rash creams, and maternal care products.",
+      "iconName": "Baby",
+      "badgeText": "Gentle Care",
+      "subText": "Trusted Quality"
+    },
+    {
+      "id": "cat-personal",
+      "title": "Personal Care & Hygiene",
+      "description": "Skin care, hair care, oral hygiene, medicated soaps, sanitizers, feminine hygiene, and grooming items.",
+      "iconName": "Sparkles",
+      "badgeText": "Everyday Hygiene",
+      "subText": "Top Brands"
+    },
+    {
+      "id": "cat-nutrition",
+      "title": "Vitamins & Supplements",
+      "description": "Nutritional protein powders, multivitamin tablets, calcium, immunity boosters, and elderly nutrition.",
+      "iconName": "Apple",
+      "badgeText": "Nutrition",
+      "subText": "Authentic Stock"
+    },
+    {
+      "id": "cat-general",
+      "title": "General Store Essentials",
+      "description": "Convenient household items, tissues, batteries, health drinks, biscuits, and daily utility supplies.",
+      "iconName": "ShoppingBag",
+      "badgeText": "General Store",
+      "subText": "Daily Needs"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Doctor-Prescribed Chronic & Acute Medicines",
+      "category": "Prescription Medicines",
+      "description": "Full range of authentic branded medicines for blood pressure, diabetes, cardiac care, and doctor-prescribed courses. Dispensed strictly with a valid prescription.",
+      "availability": "Ask for Availability",
+      "isPrescription": true,
+      "packInfo": "Valid Prescription Mandatory",
+      "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-2",
+      "name": "Digital Fever Thermometer",
+      "category": "Healthcare Devices",
+      "description": "Fast and accurate digital thermometer with buzzer alert and memory recall for home temperature monitoring.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "1 Unit with Protective Case",
+      "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-3",
+      "name": "Automatic Upper Arm Blood Pressure Monitor",
+      "category": "Healthcare Devices",
+      "description": "Easy one-touch digital BP monitor with cuff wrap guide and irregular heartbeat detection for home care.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Standard Cuff + Monitor",
+      "imageUrl": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-4",
+      "name": "Complete Home & Travel First Aid Kit",
+      "category": "First Aid & Surgical",
+      "description": "Sterile adhesive bandages, antiseptic liquid, gauze swabs, medical tape, cotton roll, and crepe bandage.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Assorted Essentials",
+      "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-5",
+      "name": "ORS Oral Rehydration Salts (WHO Formula)",
+      "category": "OTC & Daily Wellness",
+      "description": "Restores body fluids and electrolytes lost due to dehydration, warm weather, or travel fatigue.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Standard Sachet",
+      "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-6",
+      "name": "Steam Vaporizer & Facial Inhaler",
+      "category": "Healthcare Devices",
+      "description": " soothing warm steam inhalation for seasonal nasal congestion and throat comfort during monsoon and winter.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "1 Corded Unit",
+      "imageUrl": "https://images.unsplash.com/photo-1585435557343-3b092031a831?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-7",
+      "name": "Baby Diaper Pants & Gentle Wet Wipes",
+      "category": "Baby & Mother Care",
+      "description": "Soft, breathable baby diapers in all sizes (NB, S, M, L, XL) and alcohol-free aloe vera baby wipes.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Multiple Sizes Available",
+      "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-8",
+      "name": "Blood Glucose Monitor & Test Strips",
+      "category": "Healthcare Devices",
+      "description": "Glucometer kits, sterile lancets, and compatible test strip packs for regular blood sugar tracking.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Meter / 25 & 50 Strip Packs",
+      "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-9",
+      "name": "Adult & Senior Nutritional Protein Powder",
+      "category": "Vitamins & Supplements",
+      "description": "Balanced daily nutrition drink mix with essential vitamins, minerals, and protein for recovery and strength.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "200g / 400g Jar (Vanilla & Chocolate)",
+      "imageUrl": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-10",
+      "name": "Dermatological Skin & Medicated Cleansers",
+      "category": "Personal Care & Hygiene",
+      "description": "Gentle pH-balanced face washes, moisturizing lotions, anti-dandruff shampoos, and broad-spectrum sunscreens.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Various Pack Sizes",
+      "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-11",
+      "name": "Orthopaedic Crepe Bandage & Knee Support",
+      "category": "First Aid & Surgical",
+      "description": " breathable elastic support for sprains, joint care, ankle support, and post-exercise recovery.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Sizes S / M / L / XL",
+      "imageUrl": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "prod-12",
+      "name": "Daily General Store & Household Hygiene Pack",
+      "category": "General Store Essentials",
+      "description": "Hand washes, surface disinfectants, facial tissues, cotton buds, dental care, and daily household essentials.",
+      "availability": "In Stock",
+      "isPrescription": false,
+      "packInfo": "Everyday Essentials",
+      "imageUrl": "https://images.unsplash.com/photo-1583947581924-860bda6a26df?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Storefront at Siddhesh Complex",
+      "caption": "Easily accessible medical and general store in Adarsha Nagar, Manipal — Open daily 7:30 AM to 11:00 PM.",
+      "category": "Exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1586015555751-63bb77f4322a?auto=format&fit=crop&w=1000&q=80",
+      "isPlaceholder": false,
+      "targetSection": "hero"
+    },
+    {
+      "id": "gal-2",
+      "title": "Organized Medicine & Wellness Shelves",
+      "caption": "Temperature-controlled storage and neatly categorized pharmaceutical and wellness sections.",
+      "category": "Shelves",
+      "imageUrl": "https://images.unsplash.com/photo-1576602976047-174e57a47881?auto=format&fit=crop&w=1000&q=80",
+      "isPlaceholder": false,
+      "targetSection": "about"
+    },
+    {
+      "id": "gal-3",
+      "title": "Dedicated Prescription & Consultation Counter",
+      "caption": "Attentive dispensing counter for prescription verification and patient assistance.",
+      "category": "Interior",
+      "imageUrl": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?auto=format&fit=crop&w=1000&q=80",
+      "isPlaceholder": false,
+      "targetSection": "gallery"
+    },
+    {
+      "id": "gal-4",
+      "title": "Personal Care & General Store Section",
+      "caption": "Wide selection of baby care, personal hygiene, nutrition, and everyday household necessities.",
+      "category": "General",
+      "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1000&q=80",
+      "isPlaceholder": false,
+      "targetSection": "gallery"
+    }
+  ]
+}

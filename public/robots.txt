@@ -1,0 +1,16 @@
+# ============================================================================
+# Shri Sai Medical & General Store — Search Engine Crawler Directives
+# Location: Siddhesh Complex, Adarsha Nagar, Manipal, Karnataka 576104
+# ============================================================================
+
+User-agent: *
+Allow: /
+
+# Disallow administrative or CMS query parameters from indexing
+Disallow: /*?admin=*
+Disallow: /*?cms=*
+Disallow: /*&admin=*
+Disallow: /*&cms=*
+
+# Canonical XML Sitemap
+Sitemap: https://ais-pre-o5i52wk4larejaem7ubiuv-984674103469.asia-southeast1.run.app/sitemap.xml

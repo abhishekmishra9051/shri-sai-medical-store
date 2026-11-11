@@ -1,0 +1,6 @@
+{
+  "name": "Shri Sai Medical & General Store",
+  "description": "Trusted pharmacy in Adarsha Nagar, Manipal. Order genuine prescription medicines, OTC wellness products, and baby essentials via WhatsApp or phone delivery. Open daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
